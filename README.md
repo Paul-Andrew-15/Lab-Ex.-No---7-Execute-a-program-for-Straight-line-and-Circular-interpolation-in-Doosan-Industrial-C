@@ -39,20 +39,20 @@ Circular Interpolation
 
 ## output
 ### Linear interpolation 
-![1](./ot1.jpeg)
+![1](ot1.jpeg)
 
-![2](./ot2.jpeg)
+![2](ot2.jpeg)
 
-![3](./ot3.jpeg)
+![3](ot3.jpeg)
 
-![4](./ot4.jpeg)
+![4](ot4.jpeg)
 
 ### Circular interpolation
-![1](./ot7.jpeg)
+![1](ot7.jpeg)
 
-![1](./ot5.jpeg)
+![1](ot5.jpeg)
 
-![1](./ot6.jpeg)
+![1](ot6.jpeg)
 
 ## Result 
 
